@@ -1,4 +1,11 @@
 # Machine Learning Algorithms
----
-This is a collection of algorithms I wrote by translating math and probability equations into code in an intuitive/educational manner.
-I intend to add edge cases and library format later on.
+
+This repository contains from-scratch implementations of basic machine learning algorithms written by directly translating mathematical definitions into code.
+The purpose is to record and verify understanding, not to optimize performance, provide abstractions, or compete with existing libraries.
+
+## Included
+- Gaussian Naive Bayes
+- Linear Regression (closed form, gradient descent, ridge)
+- Logistic Regression (binary, multiclass)
+
+More algorithms will be added incrementally as they are implemented and understood.
