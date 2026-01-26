@@ -7,5 +7,7 @@ The purpose is to record and verify understanding, not to optimize performance, 
 - Gaussian Naive Bayes
 - Linear Regression (closed form, gradient descent, ridge)
 - Logistic Regression (binary, multiclass)
+- SVM (Dual hard and soft forms, primal)
+- Perceptron (Functional and geomtric margins)
 
 More algorithms will be added incrementally as they are implemented and understood.
